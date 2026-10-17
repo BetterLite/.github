@@ -23,15 +23,6 @@ We maintain a fork of [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) foc
 - 📦 **Up-to-date support** for the latest Minecraft: Bedrock Edition versions
 - ✅ **Backward compatibility** — existing plugins keep working
 
-### 2. BetterLite (Next-Gen Server Software)
-A new PHP server software, written from scratch, with a **Bukkit-Like API**:
-- 🧱 Familiar event-driven plugin development (like Bukkit/Spigot)
-- ⚡ Built on modern PHP 8.2+
-- 🔌 Designed for plugin authors who want a clean, predictable API
-- 🧩 Drop-in familiarity for developers coming from Spigot
-
-> BetterLite is in active development. Expect breaking changes until 1.0.0.
-
 ---
 
 ## 👑 Owner
