@@ -37,6 +37,7 @@ A new PHP server software, written from scratch, with a **Bukkit-Like API**:
 ## 👑 Owner
 
 **Akari-my** — project lead and founder
+**TricolorAsp** — developer and owner
 🔗 GitHub: [@Akari-my](https://github.com/Akari-my)
 
 ---
