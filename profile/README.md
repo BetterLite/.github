@@ -9,9 +9,7 @@
 We are a passionate group of developers, server admins, and plugin authors who love Minecraft and the open-source ecosystem around it.
 
 Our story:
-- 🎮 **Where it started** — running a public Minecraft server, sharing our custom plugins with the community
 - 🔧 **Where we are now** — maintaining PocketMine-MP, fixing bugs, keeping it up to date
-- 🚀 **Where we're going** — building **BetterLite**, a brand-new PHP server software with a Bukkit-Like API
 
 ---
 
